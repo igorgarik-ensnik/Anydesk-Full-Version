@@ -240,4 +240,4 @@ This repository serves as the official landing page for AnyDesk. The software is
 **Get the most recent version of AnyDesk today!**
 
 ---
-**Last updated:** 2026-09-17 08:14:02 UTC
+**Last updated:** 2026-09-17 13:59:02 UTC
